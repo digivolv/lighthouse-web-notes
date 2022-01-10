@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contains all of the notes taken by Edwin for the Lighthouse Labs Web Development Bootcamp.0
+This repository contains all of the notes taken by [Edwin](https://github.com/digivolv) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 # Edwin's Notes
 
